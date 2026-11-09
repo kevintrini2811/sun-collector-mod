@@ -1,0 +1,61 @@
+{
+  "reference": "../plant-library/tools/export_menu_assets.py",
+  "bundle": "/mnt/FastGaming1/SteamLibrary/steamapps/common/PVZ Replanted/Replanted_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_coinsprites_1567b864fe644461aad8d5ae5eaa9c05.bundle",
+  "bundle_sha256": "b3132251d0b8e151f8dba875502b7f039a085c05f7f02087627205e64326efc8",
+  "atlas": "/mnt/FastGaming1/SteamLibrary/steamapps/common/PVZ Replanted/Replanted_Data/StreamingAssets/aa/StandaloneWindows64/gameplayatlases_assets_all.bundle",
+  "atlas_sha256": "ec5a9e17fc83c334ec5b846caada46f09b4fd011bcf20469f2a1ae1a3a65e8a7",
+  "sprite": "Sun2",
+  "path_id": 4336683481468266449,
+  "center_sprite": "Sun1",
+  "center_path_id": 7504776209017734150,
+  "lawn_source": "/home/kevin/modding/pvzreplanted/plant-library/assets/lawn.png",
+  "lawn_provenance": {
+    "bundle": "/mnt/FastGaming1/SteamLibrary/steamapps/common/PVZ Replanted/Replanted_Data/StreamingAssets/aa/StandaloneWindows64/backgroundatlases_assets_all_19e402bc532d2cf4f6d062dcf0b108ec.bundle",
+    "bundle_sha256": "26f735ae00c9cdf3e99bccfd29395741d5283c40e4b139f0350a007b5e510328",
+    "sprite": "Area1_Lawn",
+    "path_id": -5079667051938085663,
+    "crop": [
+      1100,
+      600,
+      4000,
+      1800
+    ],
+    "size": [
+      1450,
+      600
+    ],
+    "icon_bundle": "/mnt/FastGaming1/SteamLibrary/steamapps/common/PVZ Replanted/Replanted_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets/art/characters/previews_f999564bc5382eb85495ec50c887a03d.bundle",
+    "icon_bundle_sha256": "5a86159432b5bbcfdf2e2349f50e12d3f3baec0dad457776a7453cbd80da51e4",
+    "icon_sprite": "SPR_Preview_PeaShooter",
+    "icon_path_id": 3333466314890536487,
+    "icon_size": [
+      512,
+      512
+    ],
+    "foreground_bounds": [
+      440,
+      440
+    ],
+    "foreground_bottom": 28,
+    "assets": {
+      "lawn.png": "69d7031ca62475ab0ecf1c2b7999318501215b2e0aeb5f3dbc29a4c9bc8d99da",
+      "peashooter.png": "263ff77ef0be0ef41b07c6ce13f25883fa0b6ceb19b9583ce5ffc01893bc76c2",
+      "menu-icon.png": "21ddfac5abc5b0fea6e9139d2acd32d4c3b6b1343c0f0d8ba3adfb13cd6a2d53"
+    }
+  },
+  "icon_size": [
+    512,
+    512
+  ],
+  "foreground_bounds": [
+    440,
+    440
+  ],
+  "foreground_bottom": 28,
+  "assets": {
+    "lawn.png": "69d7031ca62475ab0ecf1c2b7999318501215b2e0aeb5f3dbc29a4c9bc8d99da",
+    "sun.png": "f84017565158c9975f56c84092dd7d49b59f3f24e048f5cb218936d5fcfc5081",
+    "menu-icon.png": "c5719a754df314b1dbccfdf3106620488fb5f8de3a305d0fe799467063b38c6c"
+  },
+  "game_started": false
+}
